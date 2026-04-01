@@ -82,6 +82,12 @@ https://yeshwanth1953.github.io/Portfolio_Karthik_V1.0/
 
 ---
 
+## 📸 Screenshots
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a00ab26e-9d25-4b83-9d47-5ac958fc2225" />
+
+---
+
 ## 🔮 Future Improvements
 
 * ✨ Add animations and transitions
